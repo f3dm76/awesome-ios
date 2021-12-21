@@ -72,6 +72,7 @@
     - [CSV](#csv)
     - [JSON](#json)
     - [XML & HTML](#xml--html)
+    - [SVG](#svg)
     - [Other Parsing](#other-parsing)
 - [Passbook](#passbook)
 - [Payments](#payments)
@@ -1479,6 +1480,7 @@ Most of these are paid services, some have free tiers.
 - [RLPSwift](https://github.com/bitfwdcommunity/RLPSwift) - Recursive Length Prefix encoding written in Swift.
 - [AcknowledgementsPlist](https://github.com/cats-oss/AcknowledgementsPlist) - AcknowledgementsPlist manages the licenses of libraries that depend on your iOS app.
 - [CoreXLSX](https://github.com/MaxDesiatov/CoreXLSX) - Excel spreadsheet (XLSX) format support in pure Swift.
+- [SVGView](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 
 ## Passbook
